@@ -1,2 +1,2 @@
-# MonthCounter
-Just a month counter
+# Day Counter
+Just a day counter for fun.
